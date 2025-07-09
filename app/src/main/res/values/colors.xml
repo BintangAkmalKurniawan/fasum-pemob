@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="headerBlue">#2196F3</color>
+        <color name="badmintonGreen">#A5D6A7</color>
+        <color name="futsalGray">#BDBDBD</color>
+        <color name="billiardCyan">#80DEEA</color>
+        <color name="bottomNavBlack">#212121</color>
+        <color name="textGray">#757575</color>
+        <color name="black">#000000</color>
+        <color name="white">#FFFFFF</color>
+        <color name="Default_lapangan_badminton">#1C9FAE</color>
+</resources>
